@@ -21,7 +21,7 @@ import javax.swing.UIManager;
  */
 
 /**
- * @author atmanning - atmanning@dbq.edu
+ * @author  atmanning - atmanning@dbq.edu
  *
  */
 public class JDialogMain extends JDialog {
